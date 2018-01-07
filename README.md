@@ -1,6 +1,8 @@
 # Minions
 XMPP chat bot, with plugin architecture for implementing commands.
 
+[![Build Status](https://travis-ci.org/bschramke/minions.svg?branch=master)](https://travis-ci.org/bschramke/minions)
+
 # Overview
 Minions runs as a bot in XMPP MUC chat rooms, and responds to commands.  Commands are implemented as plugins, and may be loaded at runtime by copying the JAR file in the plugins directory.
 
