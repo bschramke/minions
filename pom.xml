@@ -12,5 +12,6 @@
     <modules>
         <module>minions-api</module>
         <module>minions-core</module>
+        <!--<module>minions-contrib</module>-->
     </modules>
 </project>

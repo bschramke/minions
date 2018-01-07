@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.boothj5.minions</groupId>
+        <artifactId>minions</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>minions-contrib</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>apples-minion</module>
+        <module>ascii-minion</module>
+        <module>binary-minion</module>
+        <module>calculator-minion</module>
+        <module>catfact-minion</module>
+        <module>chatterbot-minion</module>
+        <module>chuck-minion</module>
+        <module>coster-minion</module>
+        <module>digest-minion</module>
+        <module>echo-minion</module>
+        <module>eddie-minion</module>
+        <module>httpstatus-minion</module>
+        <module>ip-minion</module>
+        <module>osproperties-minion</module>
+        <module>slangslate-minion</module>
+        <module>spellchecker-minion</module>
+        <module>travis-minion</module>
+        <module>uuid-minion</module>
+    </modules>
+
+</project>
